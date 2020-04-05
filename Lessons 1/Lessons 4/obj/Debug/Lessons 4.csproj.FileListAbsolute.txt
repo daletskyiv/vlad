@@ -1,0 +1,7 @@
+C:\Users\Владислав\source\repos\Lessons 1\Lessons 4\bin\Debug\Lessons 4.exe.config
+C:\Users\Владислав\source\repos\Lessons 1\Lessons 4\bin\Debug\Lessons 4.exe
+C:\Users\Владислав\source\repos\Lessons 1\Lessons 4\bin\Debug\Lessons 4.pdb
+C:\Users\Владислав\source\repos\Lessons 1\Lessons 4\obj\Debug\Lessons 4.csprojAssemblyReference.cache
+C:\Users\Владислав\source\repos\Lessons 1\Lessons 4\obj\Debug\Lessons 4.csproj.CoreCompileInputs.cache
+C:\Users\Владислав\source\repos\Lessons 1\Lessons 4\obj\Debug\Lessons 4.exe
+C:\Users\Владислав\source\repos\Lessons 1\Lessons 4\obj\Debug\Lessons 4.pdb
